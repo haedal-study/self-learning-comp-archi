@@ -2,6 +2,20 @@
 - 본 스터디는 책 [혼자 공부하는 컴퓨터 구조+운영체제](https://search.shopping.naver.com/book/catalog/33824626625?query=%ED%98%BC%EC%9E%90%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EA%B5%AC%EC%A1%B0&NaPm=ct%3Dlkc6m33s%7Cci%3Da52e40b5939e07adb06ce79ecc9b214f723cca31%7Ctr%3Dboksl%7Csn%3D95694%7Chk%3D15ab84ed4a6f49ded5d66f57db4829135567f9b5) 을 읽고 공부하는 스터디입니다.
 - 이중 **컴퓨터 구조**에 대해서 다루는 1장부터 8장까지 진행합니다.
 
+# 참여 인원
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/17216686?v=4" width="100px;" alt="choiseonmun"/><br /><sub><a href="https://github.com/choiseonmun"><b>choiseonmun</b></a></sub><br /></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/120005138?v=4" width="100px;" alt="stalepatt"/><br /><sub><a href="https://github.com/stalepatt"><b>stalepatt</b></a></sub><br /></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/120005202?v=4" width="100px;" alt="weweweme"/><br /><sub><a href="https://github.com/weweweme"><b>weweweme</b></a></sub><br /></td> 
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/120005259?v=4" width="100px;" alt="yoreleihee"/><br /><sub><a href="https://github.com/yoreleihee"><b>yoreleihee</b></a></sub><br /></td> 
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/71889359?v=4" width="100px;" alt="Invidam"/><br /><sub><a href="https://github.com/Invidam"><b>Invidam</b></a></sub><br /></td> 
+      <td align="center" valign="top" width="14.28%"><img src="https://avatars.githubusercontent.com/u/19240202?v=4" width="100px;" alt="pumpkiinbell"/><br /><sub><a href="https://github.com/pumpkiinbell"><b>pumpkiinbell</b></a></sub><br /></td> 
+    </tr>
+  </tbody>
+</table>
+
 # 진행 기간
 - 1주(07.24 ~ 07.30) : 챕터 1 ~ 2
 - 2주(07.31 ~ 08.06) : 챕터 3
