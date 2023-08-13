@@ -31,7 +31,7 @@
   - V8 엔진은 대부분의 컴파일러와 비슷하게, V8 엔진도 파싱, AST 구성, Byte Code 변환등의 작업을 합니다.
     - ![example](https://velog.velcdn.com/images/seungchan__y/post/7f97490e-90a5-47ca-87a0-b1d3c754a850/image.png)
     - 다만 일반적인 컴파일러와는 약간 다르게, 인터프리터를 모니터링 하다 반복 실행 코드를 발견하면 최적화 바이트 코드를 만들게 됩니다.
-      - 이와 같이필요할 때마다 컴파일을 하는 컴파일러를 **JIT(Just-In-Time) 컴파일러**라 합니다.
+      - 이와 같이 필요할 때마다 컴파일을 하는 컴파일러를 **JIT(Just-In-Time) 컴파일러**라 합니다.
 
 - JIT Compiler
 
@@ -44,7 +44,7 @@
   - TypeScript 또한 Parser, AST 를 구성하며 이를 기반으로 타입 체킹을 하게 됩니다.
     - Scanner 가 소스 코드를 읽으며 Tokenizing 을 하고,
     - Parser 가 토큰을 읽어들이며 AST 를 만듭니다.
-    - 이후 Binder 가 트리를 훑으며 식별자가 가진 문맥, 데이터 등을 수집합니다.
+    - 이후 Binder 가 트리를 훑으며 구문 트리가 가진 노드들의 문맥, 타입 데이터 등을 수집합니다.
     - 이를 기반으로 Type Checking 을 하며,
     - 컴파일 오류가 나지 않는 경우 사용자 정의 tsconfig 파일을 기반으로 JavaScript 파일을 Emit 합니다.
 
