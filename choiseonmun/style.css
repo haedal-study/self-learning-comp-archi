@@ -1,0 +1,23 @@
+.highlight
+{
+    color: red;
+}
+
+.footnote
+{
+    color: gray;
+    font-size: 90%;
+}
+
+img
+{
+    display: block;
+    margin: auto;
+}
+
+.img-desc
+{
+    color: gray;
+    text-align: center;
+    margin-bottom: 1%;
+}
